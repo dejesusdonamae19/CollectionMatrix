@@ -13,7 +13,7 @@
 
 <div class="login-box">
   	<div class="login-logo">
-  		<b>TALA-AKLATAN</b>
+  		<b>TALAA-AKLATAN</b>
   	</div>
   
   	<div class="login-box-body">
